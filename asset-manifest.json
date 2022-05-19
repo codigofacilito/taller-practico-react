@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taller-react/static/css/main.073c9b0a.css",
+    "main.js": "/taller-react/static/js/main.e2cf3304.js",
+    "static/js/787.654f893b.chunk.js": "/taller-react/static/js/787.654f893b.chunk.js",
+    "index.html": "/taller-react/index.html",
+    "main.073c9b0a.css.map": "/taller-react/static/css/main.073c9b0a.css.map",
+    "main.e2cf3304.js.map": "/taller-react/static/js/main.e2cf3304.js.map",
+    "787.654f893b.chunk.js.map": "/taller-react/static/js/787.654f893b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e2cf3304.js"
+  ]
+}
